@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace Task5
 {
     class Program
